@@ -3,7 +3,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/concrete_seamless.png");
+  background: url("../images/bananas/bananas.png");
 }
 
 * {
@@ -59,7 +59,7 @@ h3 {
   margin: 0 0 30px;
   overflow: auto;
   color: #ffffff;
-  background: #ffffff;
+  background: #f5de11;
   border-bottom: 2px solid #cccccc;
 }
 
@@ -74,7 +74,7 @@ h3 {
   color: #ffffff;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background: #3ee4d6;;
 }
 
 nav {
@@ -87,7 +87,7 @@ nav a {
   padding-left: 15px;
   margin-left: 15px;
   line-height: 18px;
-  color: #999;
+  color: #ffffff;
   text-decoration: none;
   border-left: 1px solid #efefef;
 }
@@ -103,10 +103,10 @@ footer {
   clear: both;
   font-size: 12px;
   color: #ffffff;
-  color: #cccccc;
+  color: #ffffff;
   text-align: center;
-  background: #666666;
-  border-top: 8px solid #4aaaa5;
+  background: #3ee4d6;
+  border-top: 8px solid #f5de11;
   height: 50px;
 }
 
@@ -164,7 +164,7 @@ h3, h2 {
   line-height: 30px;
   color: #ffffff;
   text-align: center;
-  background: #4aaaa5;
+  background: #3ee4d6;;
   border-bottom: 0;
 }
 
@@ -176,7 +176,6 @@ h3, h2 {
   margin-right: 25px;
 }
 
-/* contact page */
 
 #contact-form ul {
   margin-bottom: 20px;
@@ -194,27 +193,7 @@ textarea {
   width: 100%;
 }
 
-input[type=text],
-input[type=email],
-textarea {
-  height: 35px;
-  padding: 0 10px;
-  font-size: 14px;
-  border: 1px solid #dddddd;
-}
 
-textarea {
-  height: 200px;
-}
-
-input[type=submit] {
-  padding: 10px 30px;
-  font-size: 18px;
-  color: #ffffff;
-  cursor: pointer;
-  background: #4aaaa5;
-  border: 0 none;
-}
 .sub-container {
   text-align: center;
   align-content: center;
